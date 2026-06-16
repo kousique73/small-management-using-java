@@ -1,0 +1,15 @@
+Ruhi 20226106 20 Bangladeshi Owner
+Noman 2093764 20 Bangladeshi Waiter
+Tamim 203456 20 Bangladeshi Chef
+Munem 2987645 20 Bangladeshi Dishwasher
+Shoron 2028452 20 Bangladeshi Guard
+Pranta 203456 28 Bangladeshi Manager
+Abdullah 200032 20 Bangladeshi Manager
+Shadman 254671 20 Bangladesi Manager
+Abul 12365431 30 Bangladeshi Chef
+Potter 2098761 39 British Manager
+Abdul 123678 21 Bangladeshi Guard
+Yagami 2029817 25 Japanese Manager
+Lawliet 209871 28 British Manager
+Ken 239872 25 American Director
+Kirishima 287654 24 Australian Concierge
